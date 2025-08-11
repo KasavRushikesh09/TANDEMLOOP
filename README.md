@@ -65,9 +65,7 @@ Given a list of numbers and a base range from 1 to 9, counts how many numbers in
 
 ## 🔗 Submission
 
-GitHub Repo Link:  https://github.com/AdityaTile04/-TANDEMLOOP-.git 
-Google Form Link (for reference): [https://forms.gle/VAzZZjdePM9NavSdA](https://forms.gle/VAzZZjdePM9NavSdA)
-
+GitHub Repo Link: (https://github.com/KasavRushikesh09/TANDEMLOOP.git) 
 ---
 
 Thanks for taking the time to review my work!
